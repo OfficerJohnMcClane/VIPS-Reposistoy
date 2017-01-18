@@ -10,3 +10,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+VipsProject/.metadata/
+VipsProject/Servers/
+*.classpath
+*.project
+VipsProject/gs-rest-service-complete/.settings/
+VipsProject/gs-rest-service-initial/.mvn/
+VipsProject/gs-rest-service-complete/.mvn/wrapper/maven-wrapper.properties
+VipsProject/gs-rest-service-initial/.settings/org.eclipse.core.resources.prefs
+VipsProject/gs-rest-service-initial/.settings/org.eclipse.jdt.core.prefs
+VipsProject/gs-rest-service-initial/.settings/org.eclipse.m2e.core.prefs
+VipsProject/gs-rest-service-initial/.settings/org.eclipse.wst.common.project.facet.core.xml
